@@ -1,6 +1,6 @@
 homepage: "https://adway.ai"
 documentation: "https://github.com/adway-ai/adway-gtm-template#readme"
 versions:
-  # Latest version first. Add the commit sha of template.tpl when the public repository exists.
-  - sha: TO_BE_SET_ON_PUBLICATION
+  # Latest version first: the commit that holds each released template.tpl.
+  - sha: 40cab6756d87d20421035657f6f5fa985a287f00
     changeNotes: First release. Adway Apply on your career site and consent-aware tracking.

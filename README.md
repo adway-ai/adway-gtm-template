@@ -32,3 +32,7 @@ A button without a value means the current page's job (its canonical URL). A lin
 ## Community Template Gallery
 
 The gallery needs this template in the root of a public GitHub repository with `metadata.yaml` and an Apache 2.0 `LICENSE`, then a submission that Google reviews. Until then, import `template.tpl` directly as above.
+
+## In Adway
+
+Adway (adway-c3) serves a copy of `template.tpl` at `/integrations/gtm/adway-gtm-template.tpl` for its Audiences pixel dialog. Update that copy when a new template version is released here.
